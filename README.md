@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Anderson%20de%20Matos%20Guimar%C3%A3es&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/PadawanXXVI/PadawanXXVI/main/banner.png" alt="Banner - Anderson de Matos Guimarães">
 </p>
 
 # 👋 Olá, eu sou Anderson de Matos Guimarães  
