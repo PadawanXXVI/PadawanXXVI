@@ -74,7 +74,7 @@ Pandas | NumPy | Matplotlib | Seaborn | Plotly | Scikit-learn | TensorFlow | Ker
 
 ---
 
-## 📘 Guias & Apostilas
+## 📘 Manuais & Guias que escrevi
 📖 [**manual-gli**](https://github.com/PadawanXXVI/manual-gli) — GitHub CLI + VS Code  
 📖 [**apostila-crispdm-ml**](https://github.com/PadawanXXVI/apostila-crispdm-ml) — Machine Learning com Python via CRISP-DM  
 📖 [**manual-git**](https://github.com/PadawanXXVI/manual-git) — Guia técnico de Git em português  
