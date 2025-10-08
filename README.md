@@ -111,6 +111,16 @@ Pandas | NumPy | Matplotlib | Seaborn | Plotly | Scikit-learn | TensorFlow | Ker
 
 ---
 
+#
+
+## 🎓 Certificações e Conquistas
+
+| Certificação | Emissor | Link |
+|---------------|----------|------|
+| [![AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/70a74b2f-3b5d-4d4a-9f5b-9e7f84fa3bda/AWS-Academy-Cloud-Foundations.png)](https://www.credly.com/badges/7d5c19dd-f4d0-4664-836e-a874ea8f5c25/public_url) | AWS / Credly | [Ver badge](https://www.credly.com/badges/7d5c19dd-f4d0-4664-836e-a874ea8f5c25/public_url) |
+
+---
+
 ## 🌐 Vamos nos conectar?
 📧 **anderson.m.guimaraes@icloud.com**  
 🆔 **ORCID:** [0009-0009-5107-5137](https://orcid.org/0009-0009-5107-5137)  
