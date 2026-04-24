@@ -15,6 +15,7 @@
 
 🤖 **Inteligência Artificial & Machine Learning**  
 🎓 Tecnólogo em **Ciência de Dados** — **Faculdade de Tecnologia e Inovação Senac DF**  
+🎓 Cursando Pós-Graduação em **Especialização em Machine Learning** — **Centro Universitário IESB**
 🗄️ **Bancos de Dados:** MySQL | NoSQL (MongoDB, Cassandra) | PostgreSQL  
 📊 **Business Intelligence:** Power BI | Excel Avançado  
 🌍 Brasília - DF  
